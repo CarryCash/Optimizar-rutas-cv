@@ -1,8 +1,21 @@
-# PROYECTO DE CALCULO VECTORIAL GRUPO 7
-# Nombre del proyecto: optimizacion de rutas en buques usando calculo vectorial
-# Integrantes mencionados en el proyecto
-# Programa basico (el avanzado es confidencial)
-# Gran parte del codigo esta aqui en cada uno de los archivos 
-# Para instalarlos solo se necesita usar python mientras que la interfaz de streamlit instalarl en la terminal de su editor de codigo preferido 
-# Correr: streamlit run app.py
-# que tenga un buen dia 
+# PROYECTO DE CÁLCULO VECTORIAL - GRUPO 7  
+
+## Nombre del Proyecto  
+**Optimización de Rutas en Buques usando Cálculo Vectorial**  
+
+## Descripción  
+Este proyecto tiene como objetivo optimizar la navegación de buques utilizando cálculo vectorial y análisis de datos meteorológicos.  
+
+## Integrantes  
+- [Mencionar aquí los integrantes del equipo]  
+
+## Estructura del Proyecto  
+El código se encuentra organizado en varios archivos que conforman el núcleo del programa. Existen dos versiones:  
+- **Básica** (incluida en este repositorio).  
+- **Avanzada** (confidencial y no publicada en este repositorio).  
+
+## Instalación  
+Para ejecutar el programa, asegúrate de tener **Python** instalado en tu sistema. Además, necesitarás instalar **Streamlit** ejecutando el siguiente comando en la terminal de tu editor de código preferido:  
+
+```sh
+pip install streamlit
